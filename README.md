@@ -1,7 +1,9 @@
 
-# Fitness Tracker API
+# Fitness Tracker (GYM RAT) API
 
-This project is a Node.js-based backend for a fitness tracking application. It uses Express.js to manage API endpoints, PostgreSQL as the database, and Passport.js for authentication. The API allows users to manage their accounts, track exercises, log entries, and participate in workout programs.
+This project is a Node.js-based backend for the Gym Rat fitness tracking application. It uses Express.js to manage API endpoints, PostgreSQL as the database, and Passport.js for authentication. The API allows users to manage their accounts, track exercises, log entries, and participate in workout programs.
+
+🔗[Gym Rat Application Client](https://github.com/chatzakis/gym-rat-web-client)
 
 ## Features
 
