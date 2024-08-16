@@ -66,6 +66,12 @@ This project is a Node.js-based backend for the Gym Rat fitness tracking applica
 
 6. The server will run on `http://localhost:3000`.
 
+## Database Schema - ERD
+Import the database from [gym-rat-web-database.sql](https://github.com/chatzakis/gym-rat-web-server/blob/main/gym-rat-web-database.sql).
+Find the SQL Queries at [databaseQueries.sql](https://github.com/chatzakis/gym-rat-web-server/blob/main/databaseQueries.sql).
+
+![database-erd](https://github.com/user-attachments/assets/70c27e13-875c-49f4-b337-9df3d9243952)
+
 ## API Endpoints
 
 ### Authentication
